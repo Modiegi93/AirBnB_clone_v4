@@ -1,5 +1,5 @@
 $(document).ready(function) () {
-	const amen = {}
+	const amen = {};
 	$('input:checkbox').click(function () {
 		$(this).each(function () {
 			if (this.checked) {
